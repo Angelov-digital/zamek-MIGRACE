@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-b172a4e9-ee7f-4073-9990-aee109c6cc77" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201.93 10.19">
+  <defs>
+    <style>
+      .uuid-d4b9c2f5-100a-4549-9f3c-6bf920451e72 {
+        fill: #19212b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-d4b9c2f5-100a-4549-9f3c-6bf920451e72" x="9.34" y="5.16" width="176.74" height=".53" transform="translate(195.42 10.85) rotate(-180)"/>
+  <rect class="uuid-d4b9c2f5-100a-4549-9f3c-6bf920451e72" x="192.67" y="1.59" width="7.67" height="7.67" transform="translate(331.62 148.21) rotate(-135)"/>
+  <polygon class="uuid-d4b9c2f5-100a-4549-9f3c-6bf920451e72" points="5.92 5.41 .07 1.9 -.05 8.72 5.92 5.41"/>
+</svg>
